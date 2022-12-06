@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Happy birthday ananya"
-date:   2022-12-07 00:00:00 +0530
+title:  "Happy birthday Ananya"
+date:   2022-12-06 23:30:00 +0530
 categories: personal
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/party-js@latest/bundle/party.min.js"></script>
 
-<div class="button" id="runButton"></div>
+<h6><div class="button" id="runButton" onmousedown="party.confetti(this)"> click for more confetti</div></h6>
 
 <script>
     window.onload = function tester() {
