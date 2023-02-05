@@ -20,6 +20,6 @@ categories: personal
     }
 </script>
 
-main aim of this site is that it reaches a particular friend at dead 12:00 a.m. and gives a certificate to that recepient. Also happy birthday to her or whatever. if it works well..... success.
+<p>main aim of this site is that it reaches a particular friend at dead 12:00 a.m. and gives a certificate to that recepient. Also happy birthday to her or whatever. if it works well..... success.</p>
 
 ![name of the image]({{site.url}}/assets/img/hbdCert.jpg)
